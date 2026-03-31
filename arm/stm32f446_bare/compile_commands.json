@@ -1,0 +1,97 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/arm-none-eabi-gcc",
+      "-mcpu=cortex-m4",
+      "-mthumb",
+      "-mfloat-abi=hard",
+      "-mfpu=fpv4-sp-d16",
+      "-DSTM32F446xx",
+      "-Iinc",
+      "-g3",
+      "-Og",
+      "-DDEBUG",
+      "-c",
+      "-I",
+      "/usr/include/x86_64-linux-gnu",
+      "-I",
+      "/usr/include/x86_64-linux-gnu",
+      "-o",
+      "obj/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/harkut/sprj/bare_metal/arm/stm32f446_bare",
+    "file": "/home/harkut/sprj/bare_metal/arm/stm32f446_bare/src/main.c",
+    "output": "/home/harkut/sprj/bare_metal/arm/stm32f446_bare/obj/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/arm-none-eabi-gcc",
+      "-mcpu=cortex-m4",
+      "-mthumb",
+      "-mfloat-abi=hard",
+      "-mfpu=fpv4-sp-d16",
+      "-DSTM32F446xx",
+      "-Iinc",
+      "-g3",
+      "-Og",
+      "-DDEBUG",
+      "-c",
+      "-I",
+      "/usr/include/x86_64-linux-gnu",
+      "-I",
+      "/usr/include/x86_64-linux-gnu",
+      "-o",
+      "obj/periph_init.o",
+      "src/periph_init.c"
+    ],
+    "directory": "/home/harkut/sprj/bare_metal/arm/stm32f446_bare",
+    "file": "/home/harkut/sprj/bare_metal/arm/stm32f446_bare/src/periph_init.c",
+    "output": "/home/harkut/sprj/bare_metal/arm/stm32f446_bare/obj/periph_init.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/arm-none-eabi-gcc",
+      "-mcpu=cortex-m4",
+      "-mthumb",
+      "-mfloat-abi=hard",
+      "-mfpu=fpv4-sp-d16",
+      "-DSTM32F446xx",
+      "-Iinc",
+      "-g3",
+      "-Og",
+      "-DDEBUG",
+      "-c",
+      "-I",
+      "/usr/include/x86_64-linux-gnu",
+      "-I",
+      "/usr/include/x86_64-linux-gnu",
+      "-o",
+      "obj/system_stm32f4xx.o",
+      "src/system_stm32f4xx.c"
+    ],
+    "directory": "/home/harkut/sprj/bare_metal/arm/stm32f446_bare",
+    "file": "/home/harkut/sprj/bare_metal/arm/stm32f446_bare/src/system_stm32f4xx.c",
+    "output": "/home/harkut/sprj/bare_metal/arm/stm32f446_bare/obj/system_stm32f4xx.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/arm-none-eabi-gcc",
+      "-mcpu=cortex-m4",
+      "-mthumb",
+      "-mfloat-abi=hard",
+      "-mfpu=fpv4-sp-d16",
+      "-c",
+      "-I",
+      "/usr/include/x86_64-linux-gnu",
+      "-I",
+      "/usr/include/x86_64-linux-gnu",
+      "-o",
+      "obj/startup.o",
+      "src/startup_stm32f446xx.s"
+    ],
+    "directory": "/home/harkut/sprj/bare_metal/arm/stm32f446_bare",
+    "file": "/home/harkut/sprj/bare_metal/arm/stm32f446_bare/src/startup_stm32f446xx.s",
+    "output": "/home/harkut/sprj/bare_metal/arm/stm32f446_bare/obj/startup.o"
+  }
+]

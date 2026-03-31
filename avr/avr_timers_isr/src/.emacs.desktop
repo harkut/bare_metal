@@ -1,0 +1,91 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Jan 10 22:37:40 2026
+;; Desktop file format version 208
+;; Emacs version 28.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (26978 29252 384764 890000) (desktop . "208") "harkut@harkut" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-PfEd-DejaVu Sans Mono-normal-normal-normal-*-9-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "white") (background-color . "#202022") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground . "white") (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "white") (sticky) (last-focus-update) (frameset--id . "CB25-3760-45B8-8FCA") (frameset--mini t) (frameset--text-pixel-width . 1698) (frameset--text-pixel-height . 1331) (height . 110) (width . 339) (modeline . t) (unsplittable) (left . 1712) (top . 28) (icon-name) (display . ":1") (explicit-name)) ((min-height . 8) (min-width . 20) (min-height-ignore . 4) (min-width-ignore . 12) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 96) (min-pixel-width . 100) (min-pixel-height-ignore . 48) (min-pixel-width-ignore . 60) (min-pixel-height-safe . 24) (min-pixel-width-safe . 20)) hc (pixel-width . 1714) (pixel-height . 1319) (total-width . 343) (total-height . 109) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (vc (pixel-width . 859) (pixel-height . 1319) (total-width . 172) (total-height . 109) (normal-height . 1.0) (normal-width . 0.5) (combination-limit) (leaf (pixel-width . 859) (pixel-height . 659) (total-width . 172) (total-height . 54) (normal-height . 0.5) (normal-width . 1.0) (buffer "init.el" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 69029) (start . 67086)) (prev-buffers ("init.el" 65697 69029) ("Makefile" 1 764))) (leaf (last . t) (pixel-width . 859) (pixel-height . 660) (total-width . 172) (total-height . 55) (normal-height . 0.5) (normal-width . 1.0) (buffer "*Messages*" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 8848) (start . 8848)) (prev-buffers ("init.el" 67731 68834)))) (leaf (last . t) (pixel-width . 855) (pixel-height . 1319) (total-width . 171) (total-height . 109) (normal-height . 1.0) (normal-width . 0.5) (buffer "mcu_debug.el" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 16208) (start . 13824)) (prev-buffers ("mcudbg.el" 13024 16425) ("avr-debug.el" 1 1577) ("init.el" 1 1) ("Makefile" 1 698)))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-PfEd-DejaVu Sans Mono-normal-normal-normal-*-9-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "white") (background-color . "#202022") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground . "white") (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "white") (sticky) (environment) (last-focus-update . t) (frameset--id . "83C9-4D96-37FD-8507") (frameset--mini t . t) (frameset--text-pixel-width . 1698) (frameset--text-pixel-height . 1331) (height . 110) (width . 339) (modeline . t) (unsplittable) (left . 1712) (top . 28) (icon-name) (display . ":1") (explicit-name)) ((min-height . 8) (min-width . 20) (min-height-ignore . 4) (min-width-ignore . 12) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 96) (min-pixel-width . 100) (min-pixel-height-ignore . 48) (min-pixel-width-ignore . 60) (min-pixel-height-safe . 24) (min-pixel-width-safe . 20)) hc (pixel-width . 1714) (pixel-height . 1319) (total-width . 343) (total-height . 109) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 857) (pixel-height . 1319) (total-width . 171) (total-height . 109) (normal-height . 1.0) (normal-width . 0.5) (buffer "avr_main.c" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 834) (start . 1)) (prev-buffers ("*scratch*" 1 145))) (vc (last . t) (pixel-width . 857) (pixel-height . 1319) (total-width . 172) (total-height . 109) (normal-height . 1.0) (normal-width . 0.5) (combination-limit) (leaf (pixel-width . 857) (pixel-height . 659) (total-width . 172) (total-height . 54) (normal-height . 0.5) (normal-width . 1.0) (buffer "*Messages*" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 8318) (start . 7395)) (prev-buffers ("*scratch*" 1 145))) (leaf (last . t) (pixel-width . 857) (pixel-height . 660) (total-width . 172) (total-height . 55) (normal-height . 0.5) (normal-width . 1.0) (buffer "Makefile" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 698) (start . 38)) (prev-buffers ("*Messages*" 7395 7592))))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/harkut/sprj/avr_bare_metal/avr_timers_isr/src/avr_main.c"
+  "avr_main.c"
+  'c-mode
+  '(auto-fill-mode abbrev-mode eldoc-mode company-mode override-global-mode helm-mode which-key-mode flycheck-mode doxymacs-mode hs-minor-mode lsp-mode lsp-completion-mode dap-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode text-scale-mode)
+  834
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 26978 29246 451326 931000) (buffer-file-coding-system . utf-8-unix) (fill-column . 80))
+  '((mark-ring (960 1405 1791 834))))
+
+(desktop-create-buffer 208
+  "/home/harkut/sprj/avr_bare_metal/avr_timers_isr/Makefile"
+  "Makefile"
+  'makefile-gmake-mode
+  '(auto-fill-mode company-mode override-global-mode helm-mode which-key-mode flycheck-mode dap-mode text-scale-mode)
+  698
+  '(784 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode . t) (buffer-display-time 26978 27861 82889 124000) (buffer-file-coding-system . utf-8-unix) (fill-column . 80))
+  '((mark-ring (698 764 698))))
+
+(desktop-create-buffer 208
+  "/home/harkut/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(auto-fill-mode eldoc-mode company-mode override-global-mode helm-mode which-key-mode flycheck-mode dap-mode text-scale-mode)
+  69029
+  '(68951 nil)
+  nil
+  nil
+  '((tab-width . 2) (indent-tabs-mode) (buffer-display-time 26978 29231 648493 526000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (fill-column . 80))
+  '((mark-ring (68950 68777 69029 68834))))
+
+(desktop-create-buffer 208
+  "/home/harkut/.emacs.d/mcu_debug.el"
+  "mcu_debug.el"
+  'emacs-lisp-mode
+  '(auto-fill-mode eldoc-mode company-mode override-global-mode helm-mode which-key-mode flycheck-mode dap-mode text-scale-mode)
+  16208
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 26978 29231 648493 586000) (buffer-file-coding-system . utf-8-unix) (fill-column . 80))
+  '((mark-ring (16208))))
+
+(desktop-create-buffer 208
+  "/home/harkut/.emacs.d/mcudbg.el"
+  "mcudbg.el"
+  'emacs-lisp-mode
+  '(auto-fill-mode eldoc-mode company-mode override-global-mode helm-mode which-key-mode flycheck-mode dap-mode text-scale-mode)
+  16425
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 26978 29145 18554 426000) (buffer-file-coding-system . utf-8-unix) (fill-column . 80))
+  '((mark-ring (16425))))
+
+(desktop-create-buffer 208
+  "/home/harkut/.emacs.d/avr-debug.el"
+  "avr-debug.el"
+  'emacs-lisp-mode
+  '(auto-fill-mode eldoc-mode company-mode override-global-mode helm-mode which-key-mode flycheck-mode dap-mode text-scale-mode)
+  1577
+  '(5 nil)
+  nil
+  nil
+  '((buffer-display-time 26978 27410 866747 982000) (buffer-file-coding-system . utf-8-unix) (fill-column . 80))
+  '((mark-ring (1 8 2221 1577))))
+

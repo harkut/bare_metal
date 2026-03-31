@@ -1,0 +1,67 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Mar 30 22:01:25 2026
+;; Desktop file format version 208
+;; Emacs version 28.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (27082 36933 875707 802000) (desktop . "208") "harkut@harkut" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-PfEd-DejaVu Sans Mono-normal-normal-normal-*-9-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "white") (background-color . "#202022") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground . "white") (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "white") (sticky) (last-focus-update . t) (frameset--id . "8923-9ADA-2756-06A1") (frameset--mini t) (frameset--text-pixel-width . 1698) (frameset--text-pixel-height . 1331) (height . 110) (width . 339) (modeline . t) (unsplittable) (left . 1712) (top . 28) (icon-name) (display . ":1") (explicit-name . t)) ((min-height . 12) (min-width . 10) (min-height-ignore . 7) (min-width-ignore . 6) (min-height-safe . 3) (min-width-safe . 2) (min-pixel-height . 144) (min-pixel-width . 50) (min-pixel-height-ignore . 84) (min-pixel-width-ignore . 30) (min-pixel-height-safe . 36) (min-pixel-width-safe . 10)) vc (pixel-width . 1714) (pixel-height . 1319) (total-width . 343) (total-height . 110) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1714) (pixel-height . 911) (total-width . 343) (total-height . 76) (normal-height . 0.6904761904761905) (normal-width . 1.0) (buffer "periph_init.c" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 529) (start . 1))) (leaf (pixel-width . 1714) (pixel-height . 204) (total-width . 343) (total-height . 17) (normal-height . 0.15476190476190477) (normal-width . 1.0) (buffer "*gud-.gdbinit-debug*" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 2103) (start . 1820)) (prev-buffers ("*gud-.gdbinit-debug*" 1 2103) ("Makefile" 1 1))) (leaf (last . t) (pixel-width . 1714) (pixel-height . 204) (total-width . 343) (total-height . 17) (normal-height . 0.15476190476190477) (normal-width . 1.0) (buffer "Makefile" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1)))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-PfEd-DejaVu Sans Mono-normal-normal-normal-*-9-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "white") (background-color . "#202022") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground . "white") (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "white") (sticky) (environment) (last-focus-update) (frameset--id . "4C0F-7E5F-6C37-FA5E") (frameset--mini t . t) (frameset--text-pixel-width . 1698) (frameset--text-pixel-height . 1331) (height . 110) (width . 339) (modeline . t) (unsplittable) (left . 1712) (top . 28) (icon-name) (display . ":1") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 6) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 48) (min-pixel-width . 50) (min-pixel-height-ignore . 24) (min-pixel-width-ignore . 30) (min-pixel-height-safe . 12) (min-pixel-width-safe . 10)) leaf (pixel-width . 1714) (pixel-height . 1319) (total-width . 342) (total-height . 109) (normal-height . 1.0) (normal-width . 1.0) (buffer "*gud-.gdbinit-debug*" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1324) (start . 1)) (prev-buffers ("Makefile" 1 1) ("stm32f446xx.h" 26239 28614) ("main.c" 1 187) ("*scratch*" 1 145))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/harkut/sprj/bare_metal/arm/stm32f446_bare/Makefile"
+  "Makefile"
+  'makefile-gmake-mode
+  '(auto-fill-mode company-mode override-global-mode helm-mode which-key-mode flycheck-mode dap-mode)
+  1
+  '(1391 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode . t) (buffer-display-time 27082 36922 708610 214000) (buffer-file-coding-system . utf-8-unix) (fill-column . 80))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/harkut/sprj/bare_metal/arm/stm32f446_bare/inc/stm32f446xx.h"
+  "stm32f446xx.h"
+  'c-mode
+  '(auto-fill-mode abbrev-mode eldoc-mode company-mode override-global-mode helm-mode which-key-mode flycheck-mode doxymacs-mode hs-minor-mode lsp-mode lsp-completion-mode dap-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  28614
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 27082 36864 516122 956000) (buffer-file-coding-system . undecided-unix) (fill-column . 80))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/harkut/sprj/bare_metal/arm/stm32f446_bare/src/main.c"
+  "main.c"
+  'c-mode
+  '(auto-fill-mode abbrev-mode eldoc-mode company-mode override-global-mode helm-mode which-key-mode flycheck-mode doxymacs-mode hs-minor-mode lsp-mode lsp-completion-mode dap-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  187
+  '(187 nil)
+  nil
+  nil
+  '((buffer-display-time 27082 36840 115035 498000) (buffer-file-coding-system . undecided-unix) (fill-column . 80))
+  '((mark-ring (18 19 43 250 64 188))))
+
+(desktop-create-buffer 208
+  "/home/harkut/sprj/bare_metal/arm/stm32f446_bare/src/periph_init.c"
+  "periph_init.c"
+  'c-mode
+  '(auto-fill-mode abbrev-mode eldoc-mode company-mode override-global-mode helm-mode which-key-mode flycheck-mode doxymacs-mode hs-minor-mode lsp-mode lsp-completion-mode dap-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  529
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 27082 36922 708609 943000) (buffer-file-coding-system . utf-8-unix) (fill-column . 80))
+  '((mark-ring nil)))
+

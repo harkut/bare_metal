@@ -1,0 +1,13 @@
+obj/periph_init.o: src/periph_init.c inc/periph_init.h inc/stm32f4xx.h \
+ inc/stm32f446xx.h inc/core_cm4.h inc/cmsis_version.h \
+ inc/cmsis_compiler.h inc/cmsis_gcc.h inc/mpu_armv7.h \
+ inc/system_stm32f4xx.h
+inc/periph_init.h:
+inc/stm32f4xx.h:
+inc/stm32f446xx.h:
+inc/core_cm4.h:
+inc/cmsis_version.h:
+inc/cmsis_compiler.h:
+inc/cmsis_gcc.h:
+inc/mpu_armv7.h:
+inc/system_stm32f4xx.h:

@@ -1,0 +1,31 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Feb  6 17:37:48 2026
+;; Desktop file format version 208
+;; Emacs version 28.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (27013 50300 350686 433000) (desktop . "208") "harkut@harkut" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-PfEd-DejaVu Sans Mono-normal-normal-normal-*-9-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "white") (background-color . "#202022") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground . "white") (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "white") (sticky) (environment) (last-focus-update . t) (frameset--id . "8524-DF88-8067-9B8C") (frameset--mini t . t) (frameset--text-pixel-width . 1698) (frameset--text-pixel-height . 1331) (height . 110) (width . 339) (modeline . t) (unsplittable) (left . 1712) (top . 28) (icon-name) (display . ":1") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 6) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 48) (min-pixel-width . 50) (min-pixel-height-ignore . 24) (min-pixel-width-ignore . 30) (min-pixel-height-safe . 12) (min-pixel-width-safe . 10)) leaf (pixel-width . 1714) (pixel-height . 1319) (total-width . 342) (total-height . 109) (normal-height . 1.0) (normal-width . 1.0) (buffer "Makefile" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 3396) (start . 2090)) (prev-buffers ("Makefile" 2090 3396) ("*scratch*" 1 145))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/sprj/bare_metal/arm/nucleo_f446re_blink/Makefile"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/harkut/sprj/bare_metal/arm/nucleo_f446re_blink/Makefile"
+  "Makefile"
+  'makefile-gmake-mode
+  '(auto-fill-mode company-mode override-global-mode helm-mode which-key-mode flycheck-mode text-scale-mode)
+  3396
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode . t) (buffer-display-time 27013 50296 985400 527000) (buffer-file-coding-system . utf-8-unix) (fill-column . 80))
+  '((mark-ring (2667 3396))))
+
